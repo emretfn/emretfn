@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre TUFAN</h1>
 <h3 align="center">A software developer who likes front-end but wants to be full-stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emretfn&label=Profile%20views&color=720eb4&style=flat" alt="emretfn" /> </p>
+
 
 - 🌱 I’m currently learning **Next.js and Nuxt.js**
 
@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emretfn&show_icons=true&locale=en" alt="emretfn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emretfn&" alt="emretfn" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emretfn&label=Profile%20views&color=720eb4&style=flat" alt="emretfn" /> </p>
